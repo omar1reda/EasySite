@@ -1,0 +1,546 @@
+[
+  {
+    "Name": "حقيبه نسائيه",
+    "LinkName": "product-bags-product-1",
+    "Title": "حقيبه نسائيه",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 250,
+    "Sale": 220,
+    "Index": 61,
+    "MainImage": "Files/Images/bag1.jpg",
+    "OtherImage": [
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 10,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 50,
+    "EndFakeVisitor": 70,
+    "FakeProduct": true,
+    "CountFakeProduct": 11,
+    "FakeHours": true,
+    "CountFakeHours": 5,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+      {
+        "Count": 1,
+        "TotlePrice": 220,
+        "BuyingText": "اشتري قطعه ب220ج",
+        "ShowUnitPrice": false
+      },
+      {
+        "Count": 2,
+        "TotlePrice": 400,
+        "BuyingText": "اشتري 1 ب 400ج",
+        "ShowUnitPrice": true
+      },
+      {
+        "Count": 3,
+        "TotlePrice": 550,
+        "BuyingText": "اشتري 3 ب 550ج",
+        "ShowUnitPrice": false
+      }
+
+    ]
+  },
+  {
+    "Name": "2حقيبه نسائيه",
+    "LinkName": "product-bags-product-2",
+    "Title": "حقيبه نسائيه2",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 220,
+    "Sale": 200,
+    "Index": 71,
+    "MainImage": "Files/Images/bag2.jpg",
+    "OtherImage": [
+      "Files/Images/bag4.jpg",
+      "Files/Images/bag2.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag1.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 9,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 30,
+    "EndFakeVisitor": 40,
+    "FakeProduct": true,
+    "CountFakeProduct": 7,
+    "FakeHours": true,
+    "CountFakeHours": 4,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+      {
+        "Count": 1,
+        "TotlePrice": 200,
+        "BuyingText": "اشتري قطعه ب200ج",
+        "ShowUnitPrice": false
+      },
+      {
+        "Count": 2,
+        "TotlePrice": 350,
+        "BuyingText": "اشتري 2 ب 350ج",
+        "ShowUnitPrice": true
+      },
+      {
+        "Count": 3,
+        "TotlePrice": 500,
+        "BuyingText": "اشتري 3 ب 550ج",
+        "ShowUnitPrice": false
+      }
+
+    ]
+  },
+
+  {
+    "Name": "3حقيبه نسائيه",
+    "LinkName": "product-bags-product-3",
+    "Title": "حقيبه نسائيه3",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 220,
+    "Sale": 200,
+    "Index": 51,
+
+    "MainImage": "Files/Images/bag3.jpg",
+    "OtherImage": [
+      "Files/Images/bag4.jpg",
+      "Files/Images/bag1.jpg",
+      "Files/Images/bag2.jpg",
+      "Files/Images/bag3.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 9,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 30,
+    "EndFakeVisitor": 40,
+    "FakeProduct": true,
+    "CountFakeProduct": 7,
+    "FakeHours": true,
+    "CountFakeHours": 4,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+
+
+    ]
+  },
+  {
+    "Name": "حقيبه نسائيه4",
+    "LinkName": "product-bags-product-4",
+    "Title": "حقيبه نسائيه4",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 250,
+    "Sale": 220,
+    "Index": 31,
+    "MainImage": "Files/Images/bag4.jpg",
+    "OtherImage": [
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 10,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 50,
+    "EndFakeVisitor": 70,
+    "FakeProduct": true,
+    "CountFakeProduct": 11,
+    "FakeHours": true,
+    "CountFakeHours": 5,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+      {
+        "Count": 1,
+        "TotlePrice": 220,
+        "BuyingText": "اشتري قطعه ب220ج",
+        "ShowUnitPrice": false
+      },
+      {
+        "Count": 2,
+        "TotlePrice": 400,
+        "BuyingText": "اشتري 1 ب 400ج",
+        "ShowUnitPrice": true
+      },
+      {
+        "Count": 3,
+        "TotlePrice": 550,
+        "BuyingText": "اشتري 3 ب 550ج",
+        "ShowUnitPrice": false
+      }
+
+    ]
+  },
+  {
+    "Name": "حقيبه نسائيه5",
+    "LinkName": "product-bags-product-5",
+    "Title": "حقيبه نسائيه5",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 250,
+    "Sale": 220,
+    "Index": 61,
+    "MainImage": "Files/Images/bag5.jpg",
+    "OtherImage": [
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 10,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 50,
+    "EndFakeVisitor": 70,
+    "FakeProduct": true,
+    "CountFakeProduct": 11,
+    "FakeHours": true,
+    "CountFakeHours": 5,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+
+
+    ]
+  },
+
+
+  {
+    "Name": "حقيبه نسائيه6",
+    "LinkName": "product-bags-product-6",
+    "Title": "حقيبه نسائيه6",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 250,
+    "Sale": 220,
+    "Index": 21,
+    "MainImage": "Files/Images/bag3.jpg",
+    "OtherImage": [
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 10,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 50,
+    "EndFakeVisitor": 70,
+    "FakeProduct": true,
+    "CountFakeProduct": 11,
+    "FakeHours": true,
+    "CountFakeHours": 5,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+      {
+        "Count": 1,
+        "TotlePrice": 220,
+        "BuyingText": "اشتري قطعه ب220ج",
+        "ShowUnitPrice": false
+      },
+      {
+        "Count": 2,
+        "TotlePrice": 400,
+        "BuyingText": "اشتري 1 ب 400ج",
+        "ShowUnitPrice": true
+      },
+      {
+        "Count": 3,
+        "TotlePrice": 550,
+        "BuyingText": "اشتري 3 ب 550ج",
+        "ShowUnitPrice": false
+      }
+
+    ]
+  },
+
+  {
+    "Name": "7حقيبه نسائيه",
+    "LinkName": "product-bags-product-7",
+    "Title": "حقيبه نسائيه7",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 220,
+    "Sale": 200,
+    "Index": 81,
+    "MainImage": "Files/Images/bag4.jpg",
+    "OtherImage": [
+      "Files/Images/bag4.jpg",
+      "Files/Images/bag2.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag1.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 9,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 30,
+    "EndFakeVisitor": 40,
+    "FakeProduct": true,
+    "CountFakeProduct": 7,
+    "FakeHours": true,
+    "CountFakeHours": 4,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+      {
+        "Count": 1,
+        "TotlePrice": 200,
+        "BuyingText": "اشتري قطعه ب200ج",
+        "ShowUnitPrice": false
+      },
+      {
+        "Count": 2,
+        "TotlePrice": 350,
+        "BuyingText": "اشتري 2 ب 350ج",
+        "ShowUnitPrice": true
+      },
+      {
+        "Count": 3,
+        "TotlePrice": 500,
+        "BuyingText": "اشتري 3 ب 550ج",
+        "ShowUnitPrice": false
+      }
+
+    ]
+  },
+  {
+    "Name": "8حقيبه نسا",
+    "LinkName": "product-bags-product-8",
+    "Title": "حقيبه نسائي8",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 220,
+    "Sale": 200,
+    "Index": 11,
+    "MainImage": "Files/Images/bag1.jpg",
+    "OtherImage": [
+      "Files/Images/bag4.jpg",
+      "Files/Images/bag1.jpg",
+      "Files/Images/bag2.jpg",
+      "Files/Images/bag3.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 9,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 30,
+    "EndFakeVisitor": 40,
+    "FakeProduct": true,
+    "CountFakeProduct": 7,
+    "FakeHours": true,
+    "CountFakeHours": 4,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+
+
+    ]
+  },
+  {
+    "Name": "حقيبه نسائيه9",
+    "LinkName": "product-bags-product-9",
+    "Title": "حقيبه نسائيه9",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 250,
+    "Sale": 220,
+    "Index": 21,
+
+    "MainImage": "Files/Images/bag4.jpg",
+    "OtherImage": [
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 10,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 50,
+    "EndFakeVisitor": 70,
+    "FakeProduct": true,
+    "CountFakeProduct": 11,
+    "FakeHours": true,
+    "CountFakeHours": 5,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+      {
+        "Count": 1,
+        "TotlePrice": 220,
+        "BuyingText": "اشتري قطعه ب220ج",
+        "ShowUnitPrice": false
+      },
+      {
+        "Count": 2,
+        "TotlePrice": 400,
+        "BuyingText": "اشتري 1 ب 400ج",
+        "ShowUnitPrice": true
+      },
+      {
+        "Count": 3,
+        "TotlePrice": 550,
+        "BuyingText": "اشتري 3 ب 550ج",
+        "ShowUnitPrice": false
+      }
+
+    ]
+  },
+  {
+    "Name": "حقيبه نسائيه10",
+    "LinkName": "product-bags-product-10",
+    "Title": "حقيبه نسائيه10",
+    "Description": " Sit accusantium perferendis consequatur voluptatem aut. Perferendis voluptatem sit accusantium consequatur aut. Consequatur perferendis voluptatem sit aut accusantium. Accusantium sit perferendis voluptatem aut consequatur.",
+    "Price": 250,
+    "Sale": 220,
+    "Index": 7,
+    "MainImage": "Files/Images/bag1.jpg",
+    "OtherImage": [
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg",
+      "Files/Images/bag3.jpg",
+      "Files/Images/bag5.jpg"
+    ],
+    "InventoryTracking": true,
+    "Disableproduct": true,
+    "Count": 10,
+    "IsActive": true,
+    "SkipBasket": true,
+    "TextBuyButton": "اتمام الطلب",
+    "FixedBuydownPage": true,
+    "BuyProductFromPage": true,
+    "ShowRatings": true,
+    "FakeVisitor": true,
+    "StartFakeVisitor": 50,
+    "EndFakeVisitor": 70,
+    "FakeProduct": true,
+    "CountFakeProduct": 11,
+    "FakeHours": true,
+    "CountFakeHours": 5,
+    "FreeShipping": true,
+    "HideHeader": true,
+    "Products_VariantsDto": [
+
+    ],
+    "ProductsDataDtos": [],
+    "UpSalleDto": [
+
+
+
+    ]
+  }
+
+
+
+
+
+
+]

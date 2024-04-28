@@ -1,0 +1,38 @@
+{
+  "ShowInHedear": true,
+  "IsActive": true,
+  "DepartmentsInHomePageDto": [
+    {
+      "Index": 3
+    }
+  ],
+  "ProductsInHomePageDto": [
+    {
+      "Id": 4,
+      "Index": 2,
+      "Titele": "منتجات عليها خصم",
+      "FormatNumber": 2,
+      "SortBy": "ShowProductesSale"
+    }
+  ],
+  "SliderDto": [
+    {
+      "Index": 1,
+      "SliderImageDto": [
+        {
+          "Image": "Files/Images/slider2.png",
+          "TypeName": "Product"
+        },
+        {
+          "Image": "Files/Images/slider1.png",
+          "TypeName": "Department"
+
+        },
+        {
+          "Image": "Files/Images/silder3.jfif",
+          "TypeName": "Product"
+        }
+      ]
+    }
+  ]
+}

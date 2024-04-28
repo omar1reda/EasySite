@@ -1,0 +1,50 @@
+{
+  "Phone": {
+    "Id": 0,
+    "phone": "رقم الهاتف",
+    "TextPlaceholder": "ادخل رقم الهاتف",
+    "Index": 1,
+    "IsActive": true,
+    "IsRequired": false
+  },
+  "Government": {
+    "Id": 0,
+    "government": "المحافظه",
+    "TextPlaceholder": "ادخل المحافظه",
+    "Index": 6,
+    "IsActive": true,
+    "IsRequired": true
+  },
+  "FullName": {
+    "Id": 0,
+    "fullName": "الاسم ي",
+    "TextPlaceholder": "ادخل الاسم الاول والتان",
+    "Index": 3,
+    "IsActive": true,
+    "IsRequired": true
+  },
+  "Email": {
+    "Id": 0,
+    "email": "ايميل",
+    "TextPlaceholder": "ادخل الايميل",
+    "Index": 0,
+    "IsActive": false,
+    "IsRequired": false
+  },
+  "Country": {
+    "Id": 0,
+    "country": "الدوله",
+    "TextPlaceholder": "ادخل الدوله",
+    "Index": 2,
+    "IsActive": false,
+    "IsRequired": false
+  },
+  "Address": {
+    "Id": 0,
+    "address": "العنوان",
+    "TextPlaceholder": "ادخل العنوان",
+    "Index": 5,
+    "IsActive": false,
+    "IsRequired": true
+  }
+}
