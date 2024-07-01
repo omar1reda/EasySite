@@ -69,8 +69,8 @@ namespace EasySite.Controllers
                     if (role.FirstOrDefault() == CsRoles.Manager)
                     {
                         var user = await _userManager.FindByIdAsync(userByUserName.MangerId);
-                        if (user != null)
-                        {
+            if (user != null)
+            {
                             userByEmail.AmountDue = user.AmountDue;
                             userByEmail.YourAmount = user.YourAmount;
                             userByEmail.UserType = user.UserType;
@@ -81,7 +81,7 @@ namespace EasySite.Controllers
                             userByEmail.StartDate = user.StartDate;
                             userByEmail.AccountLockMessage = user.AccountLockMessage;
                             userByEmail.Duration = user.Duration;
-
+                
                         }
                     }
 
@@ -92,10 +92,10 @@ namespace EasySite.Controllers
                 {
                     return BadRequest(new ApiResponse(400, $"الباسورد غير صحيح"));
                 }
-
+                    
             }
             else if (userByUserName!=null)
-            {
+                    {
               var  signInResult = await _signInManager.CheckPasswordSignInAsync(userByUserName, Model.Password, false);
                 if (signInResult.Succeeded)
                 {
@@ -114,13 +114,14 @@ namespace EasySite.Controllers
                             userByUserName.EndDate = user.EndDate;
                             userByUserName.StartDate = user.StartDate;
                             userByUserName.AccountLockMessage = user.AccountLockMessage;
-                            
-                        }
+
+                    return Ok(UserDTO);
+                }
                     }
                     var userDto = await CreateUserDto(userByUserName);
                     return Ok(userDto);
                 }
-                else
+                else 
                 {
                     return BadRequest(new ApiResponse(400, $"الباسورد غير صحيح"));
                 }
@@ -129,7 +130,7 @@ namespace EasySite.Controllers
             { 
                 return NotFound(new ApiResponse(404, $" {Model.EmailOrUserName} غير صحيح"));
             }
-
+           
 
 
         }
@@ -158,7 +159,7 @@ namespace EasySite.Controllers
                 }
                 var Result = await _userManager.CreateAsync(Usedto, model.Password);
                 if(Result.Succeeded)
-                {
+                {                  
                     var userAdded = await _userManager.FindByEmailAsync(model.Email);
                     await _userManager.AddToRoleAsync(userAdded, CsRoles.User);
                     await SendCode(model.Email );
@@ -214,7 +215,7 @@ namespace EasySite.Controllers
                 else
                 {
                 return BadRequest(new ApiResponse(400, $"رمز التحقق غير صحيح"));
-            }         
+                }         
                    
 
         }
@@ -311,7 +312,7 @@ namespace EasySite.Controllers
 ;
                 }
                 else {
-
+                    
                     return BadRequest(new ApiResponse(400, $"باسورد غير صحيح"));
                 } 
               
@@ -600,7 +601,7 @@ namespace EasySite.Controllers
                 {
                     return BadRequest(new ApiResponse(400, "مستخدم من قبل UserName ال"));
                 }
-            }
+                }
 
             manger.Email = managerPermitionsReturn.Email;
             manger.UserName = managerPermitionsReturn.UserName;
