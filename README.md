@@ -1,4 +1,4 @@
-Project Description for CV
+
 E-Commerce Site Creation Service
 
 Overview:
